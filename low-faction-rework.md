@@ -6,10 +6,10 @@
 
 
 ## New Gameplay
-### Xiao Beiqing Storyline
+### Xiao Bieqing Storyline
 #### Starting Instructions
 Players meetinng the criteria will receive instructions in mail, or accept quest in Missions tab of Cultivate Often interface.
-Head to Bao Dating NPC (Suzhou 755, 488) to explore jianghu hero Xiao Beiqing's life story.
+Head to Bao Dating NPC (Suzhou 755, 488) to explore jianghu hero Xiao Bieqing's life story.
 
 #### Story Chapters
 - **Cold and Warmth of Jianghu** 3rd inner wushu record and skills tp unlocked
