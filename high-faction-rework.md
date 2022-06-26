@@ -27,7 +27,7 @@ rework 2:
 rework 3:
 
 #### POMF
-- [ parry break ]: Increased skill damge. CD reduced by 2s. No CD between this and stun skill.
+- [ parry break ]: Increased skill damge. CD reduced by 2s. No CD between this and stun skill (Fallen Petals).
 - [ reflect ]: Skill can be actively interrupted by casting [ parry break ] or [ charge ]
 - [ rage ]: Increased skill damage. Enter "unmatched" state: increased accuracy and immune to skill disable.
 
@@ -42,16 +42,15 @@ rework 3:
 1. Faction reworks and jianghu skills added to Martial Tournament and 24 BF
 1. Treasure customization function for Martial Tournament
 1. New faction reworks and fun weapons added to Tan Laohu (Chengdu 724 697) NPC shop.
-1. 2 new Jianghu sets added to Wu Yi NPC (Suzhou 396 740)
+1. Two new Jianghu sets added to Wu Yi NPC (Suzhou 396 740)
 1. Heaven Reaching Peak now has a weekly cap of 160 points.
 1. New Jianhu Treasure Box - fun items consolidation.
 1. Small body size for Ghost Face Asura outfit is now available at Mysterious Tailor.
 
 ## Adjustments
-### Adjust Hidden Valley Peak boss gameplay and instance rules
-1. Increase the gap between boss skill casts for 4 bosses.
+### Adjust Hidden King Peak boss gameplay and instance rules
+1. Increase the interval between boss skill casts for 4 bosses.
 1. After entering 2nd stage, Wei Shixiong will lose 50% hp before entering combat with players.
-1. ok we don't really care what changed since we are getting the patches together...
 1. When there is combat in the instance, players outside of the instance may not enter (Hidden King Peak only)
 
 ### Small body adjustments
