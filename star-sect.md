@@ -41,10 +41,9 @@ Requirements to level meridian:
 
 ## New Reworks
 1.  New Jianghu Skill Rework - [ Female Only ] - [ Anti-Love ] effect
-    - [ rework 1 ]
-    - [ rework 2 ]
-    - [ rework 3 ]
-    - [ rework 4 ]
+    - [ Spam SKill ] Slightly increase skill damage. Deal additional 30% damage to target that is knocked down (regardless of cause) or stunned by [ The Yellow Armor Stun Skill ].
+    - [ The Yellow Armor Stun Skill ] - Slightly increase skill damage. Cooldown reduced by 3 seconds. Landing the attack on opponent with [ that dodge debuff ] will consume [ the dodge debuff ] and is considered already dodged opponent skill.
+    - [ The Nut Breaking Skill ] - Slightly increase skill damage. If target is a male, casting will enter self into [ Some buff ] sattus: increase set damage by 40%. [ Some buff ] effect decreases by 10% every 2 seconds.
 
 1. New Jianghu Skill Rework - [ Blood Dragon Axe ] - [ Blood Axe ] effect
     - [ rework 1 ]
