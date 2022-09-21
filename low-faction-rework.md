@@ -2,7 +2,7 @@
 
 | Taiwan | Vietnam | Thailand | North America |
 | :-: | :-: | :-: | :-: |
-| 2019年 4月 26日 | 15/06/2022 | Maybe July | TBD |
+| 2019年 4月 26日 | 15/06/2022 | Maybe July | September 28, 2022 |
 
 
 ## New Gameplay
