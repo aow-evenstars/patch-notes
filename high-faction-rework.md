@@ -2,7 +2,7 @@
 
 | Taiwan | Vietnam | Thailand | North America |
 | :-: | :-: | :-: | :-: |
-| [2019年 7月 5日](http://9y.bfage.com/news/detail/2104) | 15/06/2022 | Maybe July | September 28, 2022 |
+| [2019年 7月 5日](http://9y.bfage.com/news/detail/2201) | 15/06/2022 | Maybe July | September 28, 2022 |
 
 ## New Gameplay
 ### Guild League
