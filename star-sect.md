@@ -2,7 +2,7 @@
 
 | Taiwan | Vietnam | Thailand | North America |
 | :-: | :-: | :-: | :-: |
-| [2019年 1月 4日](http://9y.bfage.com/news/detail/2171) | 15/06/2022 | Maybe July | September 28, 2022 |
+| [2019年 1月 4日](http://9y.bfage.com/news/detail/2104) | 15/06/2022 | Maybe July | September 28, 2022 |
 
 
 ## New Subsect: Star Council Sect
