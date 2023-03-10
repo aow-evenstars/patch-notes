@@ -4,6 +4,7 @@ This is a player-driven project to take Patch Notes from Taiwan server and trans
 ## Credits
 ### Translators
 - Minerva
+- Nidd (Doesn't even understand Chinese)
 
 ### Proof-readers
 - FanHe
