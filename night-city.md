@@ -86,7 +86,7 @@
 1. Dharma script effect can only be triggered by Dharma disciples
 1. Remove limitation on porting from subsect to School War scene
 1. Kirin World Boss - Shield
-  - When Kirin HP is less than 4%, Kirin will gain buff "Last Light of Life" as a shield to absorb damage. Boss dies after shield is broken. Shield absorbs 15-22% of Boss' HP
+   - When Kirin HP is less than 4%, Kirin will gain buff "Last Light of Life" as a shield to absorb damage. Boss dies after shield is broken. Shield absorbs 15-22% of Boss' HP
 
 ## Fixes
 1. Fixes unintended unbound Furniture production
