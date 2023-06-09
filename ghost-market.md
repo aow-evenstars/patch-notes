@@ -24,9 +24,9 @@
 ## New Instances
 Unfathomable Ghost Market (Normal, Hard), Blood Sucking Snake Nest
 1. Unfathomable Ghost Market drops Soul Parting Drunken Dream pages
-1. Everlasting Night City Information Shop adds Soul Parting Drunken Dream skills, set exclusive cultivation pills, annotation book
+1. Eternal Night City Information Shop adds Soul Parting Drunken Dream skills, set exclusive cultivation pills, annotation book
 1. Blood Sucking Snake Nest drops Four Seas Return Blade pages
-1. Everlasting Night City Scarlet Trial Shop adds Four Seas Return Blade skills, set exclusive cultivation pills, annotation book
+1. Eternal Night City Scarlet Trial Shop adds Four Seas Return Blade skills, set exclusive cultivation pills, annotation book
 
 ## Faction Challenges Rework
 1. New "Yanyu Jianghu" level factions: Twin Dragon Fortress, Hell Mountain
@@ -45,7 +45,7 @@ Unfathomable Ghost Market (Normal, Hard), Blood Sucking Snake Nest
 1. Bracer reroll gets new set Soul Parting Drunken Dream
 1. Blade reroll gets new set Four Seas Return Blade
 1. Treasure reroll gets Soul Parting Drunken Dream and Four Seas Return Blade
-1. User will be prompted for password when logging on
+1. User will be prompted for secondary password when logging on
 1. Add restriction for Close Friend porting in guild war
 
 ## World Boss Adjustments
