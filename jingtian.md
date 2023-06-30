@@ -12,7 +12,7 @@
 1. New Jingtian Palace ID outfit quests
 
 ## New Falcon - Mansion
-1. Mansion auction starts every Friday at 8:00, lasting 2 hours
+1. Mansion auction starts every Friday at 18:00, lasting 2 hours
 1. Each Wushu Record unlocks more mansion slots. Should be 8 per server max.
 1. After winning the auction, player can go to SZ (639, 437) to build the Mansion
    Note: Player that already has a falcon needs to sell or move from the current falcon to build a Mansion.
