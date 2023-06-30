@@ -2,7 +2,7 @@
 
 | Taiwan | Vietnam | Thailand | North America |
 | :-: | :-: | :-: | :-: |
-| [2019年 11月 8日](http://9y.bfage.com/news/detail/2273) | 07/03/2023 | 9 พ.ค.66 | Jun 14, 2023 |
+| [2019年 11月 8日](http://9y.bfage.com/news/detail/2273) | 07/03/2023 | 9 พ.ค.66 | Jun 28, 2023 |
 
 ## New Ghost Market Scene and Gameplay
 1. New Ghost Market storyline quests. Player can enter Ghost Market from Eternal Night City > Ghost Market interface

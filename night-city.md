@@ -2,7 +2,7 @@
 
 | Taiwan | Vietnam | Thailand | North America |
 | :-: | :-: | :-: | :-: |
-| [2019年 9月 6日](http://9y.bfage.com/news/detail/2236) | 07/03/2023 | 9 พ.ค.66 | Jun 14, 2023 |
+| [2019年 9月 6日](http://9y.bfage.com/news/detail/2236) | 07/03/2023 | 9 พ.ค.66 | Jun 28, 2023 |
 
 ## New Eternal Night City gameplay:
 1. New Eternal Night City Journey story line. After completing chapter 1-6, players can activate the Night City Dreamland - Dreaming Jianghu game play.

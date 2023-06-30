@@ -2,7 +2,7 @@
 
 | Taiwan | Vietnam | Thailand | North America |
 | :-: | :-: | :-: | :-: |
-| [2020年 1月 3日](http://9y.bfage.com/news/detail/2309) | 07/03/2023 | 9 พ.ค.66 | Jun 14, 2023 |
+| [2020年 1月 3日](http://9y.bfage.com/news/detail/2309) | 07/03/2023 | 9 พ.ค.66 | Jun 28, 2023 |
 
 ## New Dark Factions - Jingtian Palace
 1. New Jingtian Palace gameplay guide mail
@@ -12,7 +12,7 @@
 1. New Jingtian Palace ID outfit quests
 
 ## New Falcon - Mansion
-1. Mansion auction starts every Friday at 8:00, lasting 2 hours
+1. Mansion auction starts every Friday at 18:00, lasting 2 hours
 1. Each Wushu Record unlocks more mansion slots. Should be 8 per server max.
 1. After winning the auction, player can go to SZ (639, 437) to build the Mansion
    Note: Player that already has a falcon needs to sell or move from the current falcon to build a Mansion.
