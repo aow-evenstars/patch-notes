@@ -32,9 +32,9 @@ Complete above dailies and weeklies to receive Chess Set Skills and Annotation e
 ### New Skillsets and Reworks
 1. New Skillset: Chess
 1. New Ghostly Dance Manual Rework:
-   - [skill 1]
-   - [skill 2]
-   - [skill 3]
+   - [Drunken Judge]: increased damage. Knock down unparried target paralized by "Patrol the Land".
+   - [Jumping Deity]: increased damage. This move can be used with flying skills to quickly approach the enemy.
+   - [Patrol the Land]: increased damage. Knock down unparried airborne target.
 1. Martial Challenge Eschange Shop Da Laohu (Chengdu 722, 696): adds Ghost Dance Manual Rework
 1. Treasure Skill Repair adds Ghost Dance Manual Rework skills
 1. Treasure reroll database now include Chess Set
